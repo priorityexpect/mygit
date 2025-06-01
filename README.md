@@ -1,2 +1,3 @@
-# mygit
-Learn and develop some projects 12345
+* 用于笔记存放
+
+
